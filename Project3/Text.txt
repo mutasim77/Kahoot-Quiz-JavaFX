@@ -1,0 +1,35 @@
+1 meter is equal to 100 centimeters{blank}
+True
+
+What's the biggest content?
+Asia
+Europa
+South America
+Africa
+
+What is plural form of man?
+Men
+Mans
+Mars
+Mice
+
+America is the biggest country{blank}
+False
+
+Who was Shakespeare?
+Poet
+Acter
+Writer
+Businessman
+
+What's the longest river in the world?
+Nile
+Amazon
+Volga
+Trent
+
+Which country has the largest population?
+China
+India
+Indonesia
+Russia

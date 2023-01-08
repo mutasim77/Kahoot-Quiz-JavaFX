@@ -1,0 +1,37 @@
+How do you insert COMMENTS in Java code?
+//
+#
+/*
+<-- -->
+
+Which data type is used to create a variable that should store text?
+String
+string
+Txt
+Array
+
+Java was developed by {blank}
+James Gosling
+
+What is the time complexity for a merge sort?
+O(n*logn)
+O(n)
+O(logn)
+O(n^2)
+
+How do you create a variable with the numeric value 5?
+int x = 5;
+num x = 5
+float x = 5;
+x = 5;
+
+Array indexes start with {blank}
+0
+
+Which method can be used to find the length of a string?
+length()
+size()
+len()
+getSize()
+
+

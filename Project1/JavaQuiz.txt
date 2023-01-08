@@ -1,0 +1,28 @@
+The Big O notation obtains a function for measuring algorithm time complexity based on the{blank}
+input size
+
+What are variables created within a class and outside any method are known as?
+instance
+Global
+Static
+Local
+
+What is the time complexity for a merge sort?
+O(n*logn)
+O(n)
+O(logn)
+O(n^2)
+
+Which is better in terms of memory utilization Recursion or Loops in Java?
+Loop
+Recursion
+
+How to access the value 6 out of the following array int[][] arr = {{1, -2, 6, 8}, {4, 3, 2, 1}};?
+a[0][2]
+a[0][3]
+a[1][3]
+a[1][3]
+
+Recursion in Java applies to_____
+methods
+
